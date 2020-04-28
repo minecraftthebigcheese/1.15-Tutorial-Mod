@@ -1,0 +1,8 @@
+{
+	/*decides whether it should override a lower priority method*/
+	"replace": false,
+	"values": [
+		"tutorialmod:example_block",
+		"minecraft:cactus"
+	]
+}

@@ -1,0 +1,9 @@
+{
+	/*decides whether it should override a lower priority method*/
+	"replace": false,
+	"values": [
+		"tutorialmod:example_item",
+		"tutorialmod:test_item",
+		"minecraft:apple"
+	]
+}
